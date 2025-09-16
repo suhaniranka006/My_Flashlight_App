@@ -67,9 +67,16 @@ On toggle button click → turns flashlight ON/OFF using CameraManager.
 
 Updates UI based on flashlight state.
 
-# 📷 Screenshots (Optional)
+# 📷 Screenshots 
 
-Add screenshots of your app UI here
+### ON
+
+<img src="Screenshots/flashlight_output1.jpg" alt="ON" width="250"/>
+
+### OFF
+
+<img src="Screenshots/flashlight_output2.jpg" alt="OFF" width="250"/>
+
 
 # 📦 Installation
 
