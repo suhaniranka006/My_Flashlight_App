@@ -82,7 +82,7 @@ Updates UI based on flashlight state.
 
 Clone the repository:
 
-git clone https://github.com/your-username/FlashlightToggleApp.git
+git clone https://github.com/suhaniranka006/My_Flashlight_App.git
 
 
 Open project in Android Studio
